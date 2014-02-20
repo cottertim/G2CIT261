@@ -73,17 +73,12 @@ input, textarea, select{font-size:12px; font-family:Georgia,"Times New Roman",Ti
 
 #header{padding:20px 0;}
 
-#header hgroup{float:left; margin:0 0 20px 0;}
-#header hgroup h1, #header hgroup h2{font-weight:normal; font-style:normal; text-transform:none;}
-#header hgroup h1{font-size:36px;}
+#header hgroup{float:left; vertical-align: middle; margin:20px 0 20px 0;}
+#header hgroup h1, #header hgroup h2{font-weight:900; font-style:normal; text-transform:none;}
+#header hgroup h1{font-size:50px;}
 #header hgroup h2{font-size:13px;}
 
 #header nav{float:right;}
-#header nav ul{padding:0 20px;}
-#header nav li{display:inline; margin-right:25px; text-transform:uppercase;}
-#header nav li.last{margin-right:0;}
-#header nav li a{color:#C0BAB6; background-color:#232323;}
-#header nav li a:hover{color:#FF9900; background-color:#232323;}
 
 /*----------------------------------------------Content Area-------------------------------------*/
 
